@@ -275,9 +275,11 @@ gap: 10rem;
 	font-size: 1.5rem;
 	font-weight: 500;
 	margin-bottom: 1rem;
+	margin-left:2rem;
 }
 .whyus_text {
 	font-size: 1.4rem;
+		margin-left:2rem;
 }
 .whyus_right {
 	text-align: center;
@@ -318,10 +320,12 @@ background-color:lightgreen;
 	.whyus_title {
 		font-size: 3rem;
 		margin-bottom: 2rem;
+			margin-left:2rem;
 	}
 	.whyus_text {
 		font-size: 1.5rem;
 		line-height: 1.4em;
+			margin-left:2rem;
 	}
 	.whyus_items_wrapper {
 		gap:3;
